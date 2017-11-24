@@ -1,3 +1,15 @@
+Being a part of the network
+===========================
+
+### Getting started
+
+1. Fork the template repo at [RenderedMarkdownSocialNetwork/social](https://github.com/RenderedMarkdownSocialNetwork/social).
+2. Update the README with your own details. Especially the **Friends**, **About me**, and maybe **Ads** sections are meant to set up by you. **Posts** are meant for your friends (see [Posting](#posting)).
+3. There is no step 3.
+
+You're now a part of the Rendered Markdown Social Network! :tada:
+
+
 ### Posting
 
 ```bash
