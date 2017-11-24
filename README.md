@@ -17,7 +17,8 @@ Welcome to my Rendered Markdown social networking profile!
 
 ## Friends
 
-* [Zac](https://github.com/zconnelly/social)
+* [![zconnelly](https://avatars0.githubusercontent.com/u/24896685?s=32&v=4) zconnelly](https://github.com/zconnelly/social)
+* [![glenna](https://avatars1.githubusercontent.com/u/1899476?s=32&v=4) glenna](https://github.com/glenna/social)
 
 ---
 
