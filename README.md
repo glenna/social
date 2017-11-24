@@ -27,7 +27,8 @@ yo
 
 ## Ads
 
-[cv](https://glenna.github.io/cv/)
+* [cv](https://glenna.github.io/cv/)
+* if you also get mad at jenkins, there's a [playlist](https://open.spotify.com/user/glennersboofy/playlist/3zCuHOcSlpFAc7XdeIMMjg) for that.
 
 ---
 
